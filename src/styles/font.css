@@ -1,0 +1,18 @@
+.jakarta {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'droverhalf';
+    src: url('/font/droverhalf.ttf')format('truetype');
+}
+
+.drover {
+    font-family: 'droverhalf';
+}
+
+.sans {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+}
